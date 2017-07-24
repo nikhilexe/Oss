@@ -1,0 +1,1009 @@
+{
+  "context": {
+    "user": "nikhilku",
+    "ms.group": "C+E - Developer Division",
+    "ms.project": "Visual Studio Team Service"
+  },
+  "components": [
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "prop-types",
+          "version": "15.5.10"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "prr",
+          "version": "0.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "pseudomap",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "punycode",
+          "version": "1.4.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "q",
+          "version": "1.5.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "qjobs",
+          "version": "1.1.5"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "qs",
+          "version": "6.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "querystring",
+          "version": "0.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "querystring-es3",
+          "version": "0.2.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "random-bytes",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "randomatic",
+          "version": "1.1.7"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "is-number",
+          "version": "3.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "kind-of",
+          "version": "4.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "range-parser",
+          "version": "1.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "raw-body",
+          "version": "2.1.7"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "iconv-lite",
+          "version": "0.4.13"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rc",
+          "version": "1.2.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "react",
+          "version": "15.6.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "react-deep-force-update",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "react-native",
+          "version": "0.18.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "react-proxy",
+          "version": "1.1.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "react-timer-mixin",
+          "version": "0.13.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "react-transform-hmr",
+          "version": "1.0.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "read-all-stream",
+          "version": "3.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "read-chunk",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "read-pkg",
+          "version": "1.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "read-pkg-up",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "readable-stream",
+          "version": "2.3.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "readdirp",
+          "version": "2.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "readline2",
+          "version": "0.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansi-regex",
+          "version": "1.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mute-stream",
+          "version": "0.0.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "strip-ansi",
+          "version": "2.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rebound",
+          "version": "0.0.13"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "recast",
+          "version": "0.11.23"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "esprima",
+          "version": "3.1.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rechoir",
+          "version": "0.6.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "redent",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regenerate",
+          "version": "1.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regenerator",
+          "version": "0.8.46"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regenerator-runtime",
+          "version": "0.9.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regenerator-runtime",
+          "version": "0.10.5"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regenerator-transform",
+          "version": "0.9.11"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regex-cache",
+          "version": "0.4.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regexpu",
+          "version": "1.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ast-types",
+          "version": "0.8.15"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "recast",
+          "version": "0.10.43"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regexpu-core",
+          "version": "2.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regjsgen",
+          "version": "0.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "regjsparser",
+          "version": "0.1.5"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "jsesc",
+          "version": "0.5.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "remark-parse",
+          "version": "3.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "remove-trailing-separator",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "repeat-element",
+          "version": "1.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "repeat-string",
+          "version": "1.6.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "repeating",
+          "version": "2.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "replace-ext",
+          "version": "0.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "request",
+          "version": "2.79.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "require-directory",
+          "version": "2.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "require-main-filename",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "require-uncached",
+          "version": "1.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "requires-port",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "resolve",
+          "version": "1.3.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "resolve-from",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "response-time",
+          "version": "2.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "restore-cursor",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "right-align",
+          "version": "0.1.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rimraf",
+          "version": "2.6.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ripemd160",
+          "version": "0.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rndm",
+          "version": "1.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "run-async",
+          "version": "2.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rx",
+          "version": "4.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "rx-lite",
+          "version": "3.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "safe-buffer",
+          "version": "5.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "safe-publish-latest",
+          "version": "1.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "camelcase",
+          "version": "3.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "cliui",
+          "version": "3.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "yargs",
+          "version": "6.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "samsam",
+          "version": "1.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "sane",
+          "version": "1.7.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "seek-bzip",
+          "version": "1.0.5"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "semver",
+          "version": "5.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "send",
+          "version": "0.13.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "statuses",
+          "version": "1.2.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "serve-favicon",
+          "version": "2.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "serve-index",
+          "version": "1.7.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "serve-static",
+          "version": "1.10.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "set-blocking",
+          "version": "2.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "set-immediate-shim",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "setimmediate",
+          "version": "1.0.5"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "setprototypeof",
+          "version": "1.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "sha.js",
+          "version": "2.2.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "shebang-regex",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "shelljs",
+          "version": "0.5.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "signal-exit",
+          "version": "3.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "simple-fmt",
+          "version": "0.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "simple-is",
+          "version": "0.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "sinon",
+          "version": "2.3.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "diff",
+          "version": "3.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "formatio",
+          "version": "1.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    }
+  ]
+}

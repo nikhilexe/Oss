@@ -1,0 +1,1010 @@
+{
+  "context": {
+    "user": "nikhilku",
+    "ms.group": "C+E - Developer Division",
+    "ms.project": "Visual Studio Team Service"
+  },
+  "components": [
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "abbrev",
+          "version": "1.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "absolute-path",
+          "version": "0.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "accepts",
+          "version": "1.2.13"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "acorn",
+          "version": "4.0.13"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "acorn-globals",
+          "version": "1.0.9"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "acorn",
+          "version": "2.7.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "acorn-jsx",
+          "version": "3.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "acorn",
+          "version": "3.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "after",
+          "version": "0.8.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ajv",
+          "version": "4.11.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "co",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "align-text",
+          "version": "0.1.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "alter",
+          "version": "0.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "amdefine",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansi-escapes",
+          "version": "1.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansi-regex",
+          "version": "2.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansi-styles",
+          "version": "2.2.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "anymatch",
+          "version": "1.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "append-transform",
+          "version": "0.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "aproba",
+          "version": "1.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "archive-type",
+          "version": "3.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "are-we-there-yet",
+          "version": "1.1.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "argparse",
+          "version": "1.0.9"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "aria-query",
+          "version": "0.7.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "arr-diff",
+          "version": "2.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "arr-flatten",
+          "version": "1.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-differ",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-find-index",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-includes",
+          "version": "3.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-slice",
+          "version": "0.2.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-union",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-uniq",
+          "version": "1.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "array-unique",
+          "version": "0.2.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "arraybuffer.slice",
+          "version": "0.0.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "arrify",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "art",
+          "version": "0.10.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "asap",
+          "version": "2.0.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "asn1",
+          "version": "0.2.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "assert",
+          "version": "1.4.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "assert-plus",
+          "version": "0.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "assertion-error",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ast-query",
+          "version": "2.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ast-traverse",
+          "version": "0.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ast-types",
+          "version": "0.9.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ast-types-flow",
+          "version": "0.0.7"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "async",
+          "version": "1.5.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "async-each",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "asynckit",
+          "version": "0.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "aws-sign2",
+          "version": "0.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "aws4",
+          "version": "1.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "axobject-query",
+          "version": "0.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-cli",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-code-frame",
+          "version": "6.22.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-core",
+          "version": "6.25.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-eslint",
+          "version": "7.2.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-generator",
+          "version": "6.25.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-builder-binary-assignment-operator-visitor",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-builder-react-jsx",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-call-delegate",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-define-map",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-explode-assignable-expression",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-function-name",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-get-function-arity",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-hoist-variables",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-optimise-call-expression",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-regex",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-remap-async-to-generator",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helper-replace-supers",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-helpers",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-loader",
+          "version": "6.4.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-messages",
+          "version": "6.23.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-check-es2015-constants",
+          "version": "6.22.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-constant-folding",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-dead-code-elimination",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-eval",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-external-helpers-2",
+          "version": "6.3.13"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-runtime",
+          "version": "5.8.38"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-inline-environment-variables",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-jscript",
+          "version": "1.0.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-member-expression-literals",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-property-literals",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-proto-to-assign",
+          "version": "1.0.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash",
+          "version": "3.10.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-react-constant-elements",
+          "version": "1.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-react-display-name",
+          "version": "1.0.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-remove-console",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-remove-debugger",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-runtime",
+          "version": "1.0.7"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-async-functions",
+          "version": "6.13.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-class-properties",
+          "version": "6.13.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-exponentiation-operator",
+          "version": "6.13.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-flow",
+          "version": "6.18.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-jsx",
+          "version": "6.18.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-object-rest-spread",
+          "version": "6.13.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-syntax-trailing-function-commas",
+          "version": "6.22.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-transform-async-to-generator",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-transform-class-properties",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-transform-es2015-arrow-functions",
+          "version": "6.22.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-transform-es2015-block-scoped-functions",
+          "version": "6.22.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "babel-plugin-transform-es2015-block-scoping",
+          "version": "6.24.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    }
+  ]
+}
+

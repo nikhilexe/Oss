@@ -1,0 +1,1009 @@
+{
+  "context": {
+    "user": "nikhilku",
+    "ms.group": "C+E - Developer Division",
+    "ms.project": "Visual Studio Team Service"
+  },
+  "components": [
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._basetostring",
+          "version": "3.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._basevalues",
+          "version": "3.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._getnative",
+          "version": "3.9.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._isiterateecall",
+          "version": "3.0.9"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._reescape",
+          "version": "3.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._reevaluate",
+          "version": "3.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._reinterpolate",
+          "version": "3.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash._root",
+          "version": "3.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.assignin",
+          "version": "4.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.bind",
+          "version": "4.2.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.cond",
+          "version": "4.5.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.create",
+          "version": "3.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.defaults",
+          "version": "4.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.escape",
+          "version": "3.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.filter",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.flatten",
+          "version": "4.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.foreach",
+          "version": "4.5.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.isarguments",
+          "version": "3.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.isarray",
+          "version": "3.0.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.isequal",
+          "version": "4.5.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.keys",
+          "version": "3.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.map",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.merge",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.pick",
+          "version": "4.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.reduce",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.reject",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.restparam",
+          "version": "3.6.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.some",
+          "version": "4.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.template",
+          "version": "3.6.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lodash.templatesettings",
+          "version": "3.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "log-driver",
+          "version": "1.2.5"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "log-symbols",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "log4js",
+          "version": "0.6.38"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "semver",
+          "version": "4.3.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lolex",
+          "version": "1.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "longest",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "loose-envify",
+          "version": "1.3.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "loud-rejection",
+          "version": "1.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lowercase-keys",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "lru-cache",
+          "version": "4.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "makeerror",
+          "version": "1.0.11"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "map-obj",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "markdown-escapes",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "media-typer",
+          "version": "0.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mem-fs",
+          "version": "1.1.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mem-fs-editor",
+          "version": "2.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "memory-fs",
+          "version": "0.4.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "meow",
+          "version": "3.7.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "merge",
+          "version": "1.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "merge-stream",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "method-override",
+          "version": "2.3.9"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "vary",
+          "version": "1.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "methods",
+          "version": "1.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "micromatch",
+          "version": "2.3.11"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mime",
+          "version": "1.3.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mime-db",
+          "version": "1.27.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mime-types",
+          "version": "2.1.15"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "min-document",
+          "version": "2.19.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "minimatch",
+          "version": "3.0.4"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "minimist",
+          "version": "0.0.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mkdirp",
+          "version": "0.5.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mocha",
+          "version": "3.4.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "commander",
+          "version": "2.9.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "debug",
+          "version": "2.6.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "diff",
+          "version": "3.2.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "glob",
+          "version": "7.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "supports-color",
+          "version": "3.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "module-deps",
+          "version": "3.9.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "through2",
+          "version": "1.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "moment",
+          "version": "2.18.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "morgan",
+          "version": "1.6.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ms",
+          "version": "2.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "multimatch",
+          "version": "2.1.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "multiparty",
+          "version": "3.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "multipipe",
+          "version": "0.1.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "mute-stream",
+          "version": "0.0.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "native-promise-only",
+          "version": "0.8.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "natural-compare",
+          "version": "1.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "negotiator",
+          "version": "0.5.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "node-fetch",
+          "version": "1.7.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "node-int64",
+          "version": "0.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "node-libs-browser",
+          "version": "0.7.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "process",
+          "version": "0.11.10"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "node-status-codes",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "nopt",
+          "version": "3.0.6"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "normalize-package-data",
+          "version": "2.4.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "normalize-path",
+          "version": "2.1.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "npm",
+          "version": "2.14.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "abbrev",
+          "version": "1.0.7"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansi",
+          "version": "0.3.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansicolors",
+          "version": "0.3.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "ansistyles",
+          "version": "0.1.3"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "archy",
+          "version": "1.0.0"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "async-some",
+          "version": "1.0.2"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "block-stream",
+          "version": "0.0.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "char-spinner",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "chmodr",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "chownr",
+          "version": "1.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "cmd-shim",
+          "version": "2.0.1"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    },
+    {
+      "component": {
+        "npmjs.org": {
+          "name": "graceful-fs",
+          "version": "3.0.8"
+        }
+      },
+      "ms.internal": true,
+      "ms.transmitted": false
+    }
+  ]
+}
